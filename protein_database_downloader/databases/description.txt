@@ -1,0 +1,1 @@
+protein databases will be stored in this folder.
